@@ -1,0 +1,19 @@
+{
+  "name": "cs313-teach",
+  "version": "1.0.0",
+  "description": "teach activities",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/welkerbrendon/cs313-teach.git"
+  },
+  "author": "Brendon Welker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/welkerbrendon/cs313-teach/issues"
+  },
+  "homepage": "https://github.com/welkerbrendon/cs313-teach#readme"
+}
